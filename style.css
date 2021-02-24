@@ -400,3 +400,57 @@ header {
   left: 76.5982%;
   width: 228px;
 }
+
+/* Styles for the footer navigation */
+.footer-nav {
+  border-top: 1px solid #ccc;
+  margin-bottom: 100px;
+  margin-top: 20px;
+}
+
+.footer-nav ul {
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  font-size: 12px;
+  justify-content: space-between;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+}
+
+.footer-more {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid #000;
+  padding: 25px 0;
+  background-color: #fff;
+  z-index: 900;
+  cursor: pointer;
+}
+
+.read-text {
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  font-size: 15px;
+  max-width: 600px;
+  margin: 0.1px auto 1em;
+  color: rgb(102, 102, 102);
+  margin-top: 50px;
+}
+
+.read-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.read-box a.button {
+  width: 40%;
+  text-align: center;
+  font-size: 15px;
+}
