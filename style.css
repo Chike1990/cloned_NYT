@@ -138,3 +138,26 @@ header {
   left: 15px;
   top: 15px;
 }
+
+.figure-1 {
+  max-width: 945px;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.main {
+  display: flex;
+  width: 1170px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.main-content {
+  margin-left: calc((100% - 600px) / 2);
+  margin-right: 0;
+  width: 600px;
+  font-family: nyt-imperial, georgia, "times new roman", times, serif;
+  font-size: 24px;
+  line-height: 1.5;
+}
