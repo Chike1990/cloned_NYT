@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# nyt_project
+# CLONED_NYT
 
 > A clone of New York Times article
 
@@ -14,7 +14,7 @@ It's a New York Times webpage built with HTML 5 semantic tags, CSS grid, flex, e
 
 ## Live Demo
 
-[Live Demo Link](https://chike1990.github.io/nyt_project/)
+[Live Demo Link](https://github.com/Chike1990/cloned_NYT/pull/1)
 
 ## Authors
 
