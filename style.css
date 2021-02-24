@@ -328,4 +328,75 @@ header {
   margin-right: 5px;
 }
 
-/*positioning*/
+/* Positioning the inflation */
+.inflation {
+  margin-bottom: 120px;
+  font-size: 14px;
+  line-height: 1.2;
+  margin-top: 20px;
+}
+
+.inflation img {
+  width: 100%;
+  height: auto;
+}
+
+.img-container {
+  max-width: 945px !important;
+  margin: 0 auto;
+  position: relative;
+  font-family: nyt-cheltenham, georgia, times new roman, times, serif;
+  color: #333;
+}
+
+.img-container div {
+  position: absolute;
+}
+
+.inflation-1 {
+  top: 24.8264%;
+  left: 0.0436%;
+  width: 228px;
+}
+
+.inflation-2 {
+  top: 24.8264%;
+  left: 25.5619%;
+  width: 228px;
+}
+
+.inflation-3 {
+  top: 24.8264%;
+  left: 51.08%;
+  width: 228px;
+}
+
+.inflation-4 {
+  top: 24.8264%;
+  left: 76.5982%;
+  width: 228px;
+}
+
+.inflation-5 {
+  top: 73.4375%;
+  left: 0.0436%;
+  width: 228px;
+}
+
+.inflation-6 {
+  top: 73.4375%;
+  left: 25.5619%;
+  width: 228px;
+}
+
+.inflation-7 {
+  top: 73.4375%;
+  left: 51.08%;
+  width: 228px;
+}
+
+.inflation-8 {
+  top: 73.4375%;
+  left: 76.5982%;
+  width: 228px;
+}
