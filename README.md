@@ -14,7 +14,7 @@ It's a New York Times webpage built with HTML 5 semantic tags, CSS grid, flex, e
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Chike1990/cloned_NYT/pull/1)
+[Live Demo Link](https://chike1990.github.io/cloned_NYT/)
 
 ## Authors
 
