@@ -1,8 +1,6 @@
 *,
 *::before,
 *::after {
-  /* margin: 0;
-  padding: 0; */
   box-sizing: border-box;
 }
 
@@ -321,7 +319,6 @@ img {
   text-transform: uppercase;
 }
 
-/* formating the subscribe section of the footer */
 .footer-subscribe {
   border-left: 1px solid #ccc;
   padding-left: 20px;
@@ -341,7 +338,6 @@ img {
   margin-right: 5px;
 }
 
-/* Positioning the inflation */
 .inflation {
   margin-bottom: 120px;
   font-size: 14px;
@@ -414,7 +410,6 @@ img {
   width: 228px;
 }
 
-/* Styles for the footer navigation */
 .footer-nav {
   border-top: 1px solid #ccc;
   margin-bottom: 100px;
