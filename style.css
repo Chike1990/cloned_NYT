@@ -211,6 +211,13 @@ header {
   text-decoration: none;
 }
 
+img {
+  height: auto;
+  max-width: 100%;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
 .aside img {
   width: 80px;
   height: 80px;
@@ -298,6 +305,12 @@ header {
 
 .read-text a {
   color: inherit;
+}
+
+.border-line a {
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
 }
 
 .footer-list-container a:hover {
@@ -466,19 +479,12 @@ header {
   padding: 10px;
 }
 
-img {
-  height: auto;
-  max-width: 100%;
-  padding-bottom: 10px;
-  padding-right: 10px;
-}
-
 .grid-head {
   display: block;
   font-size: 1.17em;
   margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
   font-weight: bold;
   text-decoration: none;
   padding: 0 20px;
@@ -496,10 +502,4 @@ img {
   border-bottom: 1px solid #333;
   margin: 10px 0;
   padding: 10px 0;
-}
-
-.border-line a {
-  text-decoration: none;
-  font-size: 18px;
-  color: black;
 }
