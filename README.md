@@ -4,7 +4,7 @@
 
 > A clone of New York Times article
 
-![screenshot](Assets\ProjectScreenShot.jpg)
+![screenshot](Assets\image\ProjectScreenShot.jpg)
 It's a New York Times webpage built with HTML 5 semantic tags, CSS grid, flex, etc.
 
 ## Built With
